@@ -98,8 +98,11 @@ We ran the cnn model for 10 epox and got accuracy 0.94 with validation accuracy 
  # Testing
  ![test](https://user-images.githubusercontent.com/27928395/27203021-58888850-523d-11e7-9bb6-ec1cec32f165.png)
  # Sliding window 
-   ![sliding window](https://user-images.githubusercontent.com/27928395/27748358-99d85036-5de8-11e7-88c2-8a26a9f4257f.jpeg)
-
+ ![sliding window](https://user-images.githubusercontent.com/27928395/27748358-99d85036-5de8-11e7-88c2-8a26a9f4257f.jpeg)
+ ![Human](https://user-images.githubusercontent.com/27928395/27909737-8d6247e4-626b-11e7-9dac-e4c52f495bda.jpeg)
+ We apply some function to detect all human
+![NonHuman](https://user-images.githubusercontent.com/27928395/27909749-9f5c0fb6-626b-11e7-9f2f-39e9ad3cb4b6.jpeg)
+We apply some function to detect all Nonhuman
  ### Discussion 
  I thoroughly studied the approach for human detection butt the best one is Convolutional Neural Networks in Deep learning 
  Because it took time to figure out the result but the results of this algorithm is accurate 99%
